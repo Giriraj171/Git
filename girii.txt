@@ -1,0 +1,5 @@
+git init -->intialize the working directory where we can perform git commands.
+git add --
+git commit
+git status
+git push
